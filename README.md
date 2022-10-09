@@ -1,4 +1,4 @@
-# AMUSE-Tutorial
+# AMUSE-Tutorial, Claire Olde Loohuis
 
 Here are a number of small AMUSE tutorials in the form of python
 notebooks.  These tutorial will (in part) be used for the lecture
